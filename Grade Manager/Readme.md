@@ -23,15 +23,11 @@ This project is perfect for beginners to practice **Python dictionaries, lists, 
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Concepts Used
 
 - Python 3
 - Dictionaries
 - Lists
 - Functions
 - Loops & Conditionals
-
----
-
-## 📂 Project Structure
 
