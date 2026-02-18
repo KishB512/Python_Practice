@@ -20,13 +20,10 @@ It’s a simple automation script useful for learning **Python file handling, OS
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Concept Used
 
 - Python 3
 - `os` module (file handling)
 - `datetime` module (date formatting)
 
----
-
-## 📂 Project Structure
 
